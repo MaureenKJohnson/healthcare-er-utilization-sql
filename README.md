@@ -28,4 +28,18 @@ The dataset was generated for educational and portfolio purposes only.
 2. How do ER utilization and hospital admission rates differ by insurance type?
 3. Which insurance groups demonstrate higher 30-day repeat ER visit rates?
 
+## Methods
+
+This analysis was conducted using SQL in SQLite and focused on descriptive and comparative analysis of emergency department utilization patterns.
+
+Key analytic methods included:
+- Table joins across patients, ER visits, and charges
+- Aggregation using COUNT, DISTINCT, and GROUP BY
+- Conditional logic using CASE WHEN statements
+- Calculation of utilization, admission, and repeat-visit rates
+
+Analyses were stratified by insurance type to compare utilization patterns across payer groups. No predictive modeling or statistical inference was performed; results are descriptive in nature and intended for exploratory analysis.
+
+
+
 
