@@ -40,6 +40,11 @@ Key analytic methods included:
 
 Analyses were stratified by insurance type to compare utilization patterns across payer groups. No predictive modeling or statistical inference was performed; results are descriptive in nature and intended for exploratory analysis.
 
+## Project Documentation
+
+- [Results](RESULTS.md)
+- [Discussion](DISCUSSION.md)
+- [Next Steps](NEXT_STEPS.md)
 
 
 
