@@ -7,14 +7,16 @@ These descriptive differences suggest variation in utilization patterns across p
 
 ### Hospital Admission Rates
 
-Hospital admission rates varied by insurance type, ranging from 0.452 to 0.551 admissions per patient ER visit. Although Medicaid patients demonstrated the lowest overall ER utilization, they exhibited the highest proportion of ER visits resulting in hospital admission (0.551 admissions per visit). 
+Hospital admission rates varied by insurance type, ranging from 0.452 to 0.551 admissions per patient ER visit. Although Medicaid patients had the lowest overall ER utilization, they exhibited the highest proportion of ER visits resulting in hospital admission (0.551 admissions per visit). 
 
 In contrast, while Self-Pay patients - who had the highest ER utilization - had the lowest admission rate (0.452 admissions per ER visit). Admission rates among Medicare, Commercial, and Medicare Advantage patients were similar, averaging 0.500, 0.493, and 0.492 admissions per ER visit, respectively.
 
 ### 30-Day Repeat ER Visits
 
-Thirty-day repeat ER visits also varied across insurance groups, ranging from 4.4% to 12.7 % of ER visits. Medicare patients demonstrated the highest repeat visit rate (12.7%), followed by Medicare Advantage patients (9.5%), and Self-Pay patients (8.6%). compared to other insurance groups. 
+Thirty-day repeat ER visits also varied across insurance groups, ranging from 4.4% to 12.7 % of ER visits. Medicare patients demonstrated the highest repeat visit rate (12.7%), followed by Medicare Advantage patients (9.5%), and Self-Pay patients (8.6%). 
 
-Commercially insured patients exhibited lower repeat-visit rates (7.2%) while Medicaid patients demonstrated the lowest repeat-visit rate in this dataset (4.4%).
+Commercially insured patients showed lower repeat-visit rates (7.2%) while Medicaid patients demonstrated the lowest repeat-visit rate in this dataset (4.4%).
 
 These findings indicate higher short-term ER return rates among Medicare and Medicare Advantage populations relative to other payer groups; however, results are descriptive and do not account for patient-level complexity or clinical severity.
+
+Note: All findings presented are descriptive and based on visit-level aggregation. No inferential statistical testing or risk adjustment was performed. Results do not account for patient-level clinical complexity, severity of illness, or access to outpatient care and should be interpreted as exploratory.
