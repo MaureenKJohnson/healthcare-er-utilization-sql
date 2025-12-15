@@ -10,6 +10,22 @@ This project examines emergency department (ER) utilization patterns using SQL, 
 
 The goal is to demonstrate SQL-based exploratory analysis commonly performed by healthcare and hospital analysts, including joins, aggregations, conditional logic, and rate calculations. Analyses are stratified by insurance type to explore differences in utilization patterns, admission rates, and short-term repeat visits.
 
+## Project Structure
+
+- README.md  
+  Project overview, data description, methods, and key analytical questions
+
+- RESULTS.md  
+  Summary of descriptive findings stratified by insurance type
+
+- DISCUSSION.md  
+  Interpretation of findings, operational implications, and limitations
+
+- NEXT_STEPS.md  
+  Recommendations for future analyses, modeling, and dashboard integration
+
+- LICENSE  
+  MIT License
 
 ## Data Description
 
@@ -21,6 +37,10 @@ Tables include:
 - `charges`: visit-level charges and insurance coverage
 
 The dataset was generated for educational and portfolio purposes only.
+
+## Notes
+
+The dataset used in this project is fully synthetic and was generated for educational and portfolio purposes. AI tools were used to assist with data generation and code refinement; all analyses, interpretation, and documentation reflect the author’s independent analytical judgment.
 
 ## Key Questions Addressed
 
