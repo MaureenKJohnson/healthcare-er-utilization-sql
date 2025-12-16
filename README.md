@@ -1,5 +1,6 @@
 # healthcare-er-utilization-sql
-SQL-based analysis of emergency department utilization, admissions, and repeat visits stratified by insurance type using a synthetic healthcare dataset.
+
+SQL-based analysis of emergency department utilization using a synthetic healthcare dataset, examining ER visit frequency, hospital admissions, and 30-day repeat visits stratified by insurance type. The project demonstrates practical healthcare analytics workflows and operational interpretation relevant to hospital settings.
 
 ## Project Overview
 
